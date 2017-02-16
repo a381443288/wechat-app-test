@@ -1,0 +1,13 @@
+{
+  "pages": [
+    "pages/banlinianshen/banlinianshen",
+    "pages/paysuccess/paysuccess"
+  ],
+  "window": {
+    "navigationBarTextStyle": "black",
+    "navigationBarTitleText": "年审",
+    "navigationBarBackgroundColor": "#F8F8F8",
+    "backgroundColor": "#000"
+  },
+  "debug": true
+}

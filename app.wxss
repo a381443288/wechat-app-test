@@ -1,0 +1,58 @@
+/* reset */
+page {
+  background-color: #f1f1f1;
+  height: 100%;
+  font-size: 26rpx;
+  line-height: 1.6;
+  color: #333;
+}
+checkbox, radio{
+  margin-right: 10rpx;
+}
+button{
+  margin-top: 20rpx;
+  margin-bottom: 20rpx;
+}
+form{
+  width: 100%;
+}
+image{
+  vertical-align: middle;
+}
+.c-primary{
+  color: #0b61a4;
+}
+.c-warn{
+  color: #f00;
+}
+.c-orange{
+  color: #ff9200;
+}
+.btn-orange{
+  background: #ff9200;
+  display: inline-block;
+  padding: 0 20rpx;
+  color: #fff;
+}
+.bgf{
+  background: #fff;
+}
+.btn{
+  display: block;
+  margin:25rpx;
+  border-radius:10rpx;
+  height: 80rpx;
+  line-height: 80rpx;
+  text-align: center;
+  color: #fff;
+  font-size: 30rpx;
+}
+.btn-primary{
+  background: #0b61a4;
+}
+.picker{
+  padding: 0 30rpx 0 10rpx;
+  margin-right: 20rpx;
+  background: url(../../images/right.png) no-repeat center right;
+  background-size:12rpx 23rpx;
+}
